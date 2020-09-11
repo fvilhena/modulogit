@@ -1,7 +1,3 @@
-Meu primeiro sistema no Git
+Projeto para usar o GIT
 
-
-Alterado para explicar melhor o projeto
-
-
-Bem legal.
+Não tem conteudo interno.
